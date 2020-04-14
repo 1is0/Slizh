@@ -6,7 +6,7 @@ using System.Text;
 namespace TranslationOfMonths
 {
     class TranslationOfMonths
-    {
+    { 
         static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
