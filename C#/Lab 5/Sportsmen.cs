@@ -6,16 +6,16 @@ namespace Footballers
 {
     abstract class Sportsmen : Person
     {
-        public string DateOfBirth { get; set; }
+        public DateTime DateOfBirth { get; set; }
         public int Weight { get; set; }
         public int Height { get; set; }
         public Sportsmen() : base()
         {
-            DateOfBirth = "21.03.1980";
+            DateOfBirth = new DateTime(1980, 03, 21);
             Height = 182;
             Weight = 76;
         }
-        public Sportsmen(string s, string n, string c, string dob, int w, int h) : base(s, n, c)
+        public Sportsmen(string s, string n, string c, DateTime dob, int w, int h) : base(s, n, c)
         {
             DateOfBirth = dob;
             Weight = w;
