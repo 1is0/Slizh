@@ -28,7 +28,7 @@ namespace Footballers
             Console.WriteLine("Enter country:");
             string country = Console.ReadLine();
             Console.WriteLine("Enter date of birth:");
-            string date = Console.ReadLine();
+            DateTime date = CheckDate();
             Console.WriteLine("Enter Weight:");
             int weight = CheckNaturalNumber();
             Console.WriteLine("Enter Height:");
@@ -40,6 +40,13 @@ namespace Footballers
             Console.WriteLine("Enter maximal coast of player:");
             int coast = CheckNaturalNumber();
             return new Footballer(surname, name, country,date, weight, height, (Position)position, fifaRate, coast);
+        }
+         public static DateTime CheckDate()
+        {
+            DateTime date;
+            while (!DateTime.TryParse(Console.ReadLine(), out date))
+                Console.Write("Incorrect input, repeat: ");
+            return date;
         }
         public static int CheckFifaRating()
         {
@@ -82,7 +89,7 @@ namespace Footballers
         static void Main(string[] args)
         {
             Footballer first = new Footballer();
-            Footballer second = new Footballer("Rooney","Wayne","England","24.10.1985",80,176,Position.CentralForward,91,65000000);
+            Footballer second = new Footballer("Rooney","Wayne","England", new DateTime(1985, 10, 24),80,176,Position.CentralForward,91,65000000);
             var third = EnterPlayer();
             Console.WriteLine(first);
             Console.WriteLine(second);
