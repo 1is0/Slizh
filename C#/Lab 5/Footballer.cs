@@ -19,7 +19,7 @@ namespace Footballers
             tmp.fifaRate = 95;
             tmp.maxCoast = 80000000;
         }
-        public Footballer(string s, string n, string c, string dob, int w, int h, Position p, int fr, int mc) : base(s, n, c, dob, w, h)
+        public Footballer(string s, string n, string c, DateTime dob, int w, int h, Position p, int fr, int mc) : base(s, n, c, dob, w, h)
         {
             @Position = p;
             tmp.fifaRate = fr;
