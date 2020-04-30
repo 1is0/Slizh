@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\tmppppp\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\tmppppp\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\tmppppp\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project3PCH1.h=C:\tmppppp\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\tmppppp\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\tmppppp\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.568,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\tmppppp\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2020.04.29 23:10:32.435,C:\tmppppp\Stack.h=C:\tmppppp\Unit4.h</Transaction>
+    <Transaction>2020.04.29 23:10:32.435,C:\tmppppp\Stack.cpp=C:\tmppppp\Unit4.cpp</Transaction>
+    <Transaction>2020.04.29 23:10:44.433,C:\tmppppp\Form.dfm=C:\tmppppp\Unit3.dfm</Transaction>
+    <Transaction>2020.04.29 23:10:44.433,C:\tmppppp\Form.h=C:\tmppppp\Unit3.h</Transaction>
+    <Transaction>2020.04.29 23:10:44.433,C:\tmppppp\Form.cpp=C:\tmppppp\Unit3.cpp</Transaction>
+    <Transaction>2020.04.29 23:21:16.024,C:\tmppppp\Unit1.h=C:\tmppppp\Form.h</Transaction>
+    <Transaction>2020.04.29 23:21:16.024,C:\tmppppp\Unit1.cpp=C:\tmppppp\Form.cpp</Transaction>
+    <Transaction>2020.04.29 23:21:16.024,C:\tmppppp\Unit1.dfm=C:\tmppppp\Form.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
