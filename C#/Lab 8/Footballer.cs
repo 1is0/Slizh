@@ -46,7 +46,7 @@ namespace Footballers
             for (int i = 0; i < 10; i++)
             {
                 Distance += 50;
-                Thread.Sleep(2000);
+                Thread.Sleep(1000);
                 Console.WriteLine(Name + Surname + "is running" + Distance + "meters");
                 Console.WriteLine("Now his weight is "+ Weight--);
                 Console.WriteLine("Now his fifarate is " + qual.fifaRate++);
