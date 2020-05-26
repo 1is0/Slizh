@@ -1,0 +1,49 @@
+C:\WORK\Keyboard\Keyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.InputForm.resources
+C:\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+C:\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.Cache
+C:\WORK\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+C:\WORK\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+C:\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+C:\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+F:\Vad\WORK\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+F:\Vad\WORK\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\ResolveAssemblyReference.cache
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.InputForm.resources
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.Cache
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.MainForm.resources
+F:\Vad\WORK\Keyboard\Keyboard\obj\Debug\Keyboard.EditForm.resources
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.EditForm.resources
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.InputForm.resources
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.MainForm.resources
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.HelpForm.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.EditForm.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.HelpForm.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.InputForm.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.MainForm.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+C:\Users\Николай\YandexDisk\All\Programming\Исходники С++ C# для сайта\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.Cache
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.csprojAssemblyReference.cache
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.EditForm.resources
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.HelpForm.resources
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.InputForm.resources
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.MainForm.resources
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.Properties.Resources.resources
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.csproj.GenerateResource.cache
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+D:\6. Программа по обучению работе с клавиатурой (набор текста на время)\Keyboard\Keyboard\Keyboard\obj\Debug\Keyboard.pdb

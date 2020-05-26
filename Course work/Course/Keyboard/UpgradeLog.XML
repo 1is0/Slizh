@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Keyboard">
+</Property><Property Name="Файл решения" Value="C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Keyboard.suo">
+</Property><Property Name="Date" Value="20 февраля 2013 г.">
+</Property><Property Name="Time" Value="20:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Keyboard.sln" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Keyboard.suo" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard.suo">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Keyboard.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Keyboard.csproj">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\EditForm.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\EditForm.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\EditForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\EditForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\InputForm.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\InputForm.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\InputForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\InputForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\MainForm.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\MainForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Program.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\EditForm.resx" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\EditForm.resx">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\InputForm.resx" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\InputForm.resx">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\MainForm.resx" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Димасик\Desktop\Колян\Работы С++С#\Keyboard\Keyboard\Backup\Keyboard\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Keyboard.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Keyboard" Source="Keyboard\Keyboard.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Keyboard.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Keyboard.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Keyboard" Source="Keyboard\Keyboard.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
